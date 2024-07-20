@@ -1,0 +1,8 @@
+.test__dog-img {
+  width: 600px;
+  height: 600px;
+}
+
+.test__dog-description {
+  max-width: 600px;
+}
